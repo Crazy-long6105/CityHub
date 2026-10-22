@@ -2,7 +2,7 @@ server:
   port: 8081
 spring:
   application:
-    name: hmdp
+    name: CityHub
   datasource:
     hikari:
       connection-timeout: 2000
